@@ -1,0 +1,7 @@
+ import = [{
+    table = "dev.Magaz.Tables::OrderDetails"; 
+    schema = "DEV"; 
+    file = "dev.Magaz.ImportData.Data.CSV_Files:OrderDetails.csv";
+    header = false;
+    delimField = ",";   
+}]; 
